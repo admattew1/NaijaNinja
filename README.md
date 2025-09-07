@@ -1,0 +1,3 @@
+SuperKart Model Prediction focuses on predicting sales revenue by store and product categories using machine learning. It involves multiple model predictions and comparisons, including Decision Tree, Random Forest, and XGBoost, along with their hyperparameter tunings. The workflow includes model serialization, folder management, containerization, and deployment on Hugging Face. 
+Skills demonstrated include Exploratory Data Analysis, Data Cleaning, Feature Engineering, Model Development and Training, as well as Back-End and Front-End Deployment. 
+Tools and languages used include Python (pandas, scikit-learn), Google Colab Notebook, Streamlit (front-end web app), and Flask Web Framework (back-end RESTful API).
